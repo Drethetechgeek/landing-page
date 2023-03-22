@@ -8,9 +8,10 @@ body {
     /* gap:100px;
     margin-left:150px; */
     flex-direction: row;
-    justify-content:space-between;
-    align-items:baseline;
+    justify-content: space-between;
+    align-items: baseline;
 }
+/* have a space after : */
 
  /* .nav{
 
