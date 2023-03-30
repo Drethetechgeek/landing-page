@@ -57,3 +57,16 @@ body {
     border: 2px solid black;
     border-radius: 20px;
 }
+
+.trendy {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+}
+
