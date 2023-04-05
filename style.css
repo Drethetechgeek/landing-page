@@ -160,6 +160,7 @@ h3 {
     height: 30%;
     display: flex;
     flex-direction: row;
+    border-radius: 10px;
 }
 
 .left {
@@ -194,4 +195,15 @@ h4 {
     width: 110px;
     border-radius: 10px;
     margin-right: 50px;
+}
+
+.ending {
+    height: 100px;
+    background-color:#1f2937;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
 }
